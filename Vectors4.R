@@ -33,3 +33,32 @@ z
 w<- rep(c(1,2,0.5),each=3)
 w
 
+x<-c()
+
+x
+typeof(x)
+length(x)
+
+
+y<-NULL
+y
+typeof(y)
+
+
+z<-vector()
+
+z
+typeof(z)
+
+x<-c(x,1,2)
+x
+typeof(x)
+
+y<-c(y,1,2)
+y
+typeof(y)
+
+z<-c(z,1,2)
+z
+typeof(z)
+
